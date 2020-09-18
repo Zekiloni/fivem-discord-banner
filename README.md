@@ -7,3 +7,5 @@ How to set up ?
   Change Discord Server ID (on your discord server, Server Settings > Enable Widget),
   Change Server name and site.
  
+
+![Preview](https://i.imgur.com/g6UcMCu.png)
